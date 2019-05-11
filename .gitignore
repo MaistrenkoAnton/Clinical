@@ -1,0 +1,11 @@
+venv/
+*.pyc
+.idea/
+*.sqlite3
+__pycache__/
+.env
+media/
+staticfiles/
+*.swp
+/static
+*.dmp
